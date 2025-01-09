@@ -1,10 +1,12 @@
 {
   "name": "he-qa-recommened-extensions",
-  "displayName": "he-qa-recommened-extensions",
-  "description": "bunch of extensions useful to contribute to HE QA codebase",
-  "version": "1.0.0",
+  "publisher": "chaitanya-hackerearth",
+  "displayName": "HE QA Recommended Extensions",
+  "description": "Bunch of extensions useful to contribute to HE QA codebase with installation notifications.",
+  "version": "1.0.3",
+  "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.8.0"
   },
   "categories": [
     "Extension Packs"
@@ -21,6 +23,7 @@
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "tamasfe.even-better-toml",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "ms-azuretools.vscode-docker"
   ]
 }
