@@ -1,0 +1,26 @@
+{
+  "name": "he-qa-recommened-extensions",
+  "displayName": "he-qa-recommened-extensions",
+  "description": "bunch of extensions useful to contribute to HE QA codebase",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "atlassian.atlascode",
+    "charliermarsh.ruff",
+    "circleci.circleci",
+    "eamodio.gitlens",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "postman.postman-for-vscode",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml",
+    "usernamehw.errorlens"
+  ]
+}
