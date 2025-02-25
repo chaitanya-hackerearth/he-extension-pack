@@ -2,7 +2,7 @@
   "name": "he-qa-recommened-extensions",
   "publisher": "chaitanya-hackerearth",
   "displayName": "HE QA Recommended Extensions",
-  "description": "Bunch of extensions useful to contribute to HE QA codebase with installation notifications.",
+  "description": "Bunch of extensions useful to contribute to HE QA codebase.",
   "version": "1.0.3",
   "icon": "images/icon.png",
   "repository": {
